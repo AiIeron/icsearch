@@ -1,4 +1,7 @@
 import 'package:material_ui/material_ui.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'firebase_options.dart';
 
 void main() {
   runApp(const MyApp());

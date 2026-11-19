@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449220325009",
+    "project_id": "icsearch-bafed",
+    "storage_bucket": "icsearch-bafed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449220325009:android:88a73faceb150ef24ed930",
+        "android_client_info": {
+          "package_name": "com.example.icsearch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMBkMK548ViJto4UDdgMmV3_PGv-1DymU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
